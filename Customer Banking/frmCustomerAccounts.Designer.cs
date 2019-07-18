@@ -41,6 +41,7 @@
             this.dtaResults.Size = new System.Drawing.Size(395, 150);
             this.dtaResults.TabIndex = 3;
             this.dtaResults.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtaResults_CellClick);
+            this.dtaResults.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtaResults_CellContentClick);
             // 
             // frmCustomerAccounts
             // 

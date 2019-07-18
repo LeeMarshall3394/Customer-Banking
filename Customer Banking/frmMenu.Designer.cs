@@ -31,7 +31,6 @@
             this.btnCustomers = new System.Windows.Forms.Button();
             this.btnProducts = new System.Windows.Forms.Button();
             this.btnAccounts = new System.Windows.Forms.Button();
-            this.btnTransactions = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCustomers
@@ -64,26 +63,15 @@
             this.btnAccounts.UseVisualStyleBackColor = true;
             this.btnAccounts.Click += new System.EventHandler(this.btnAccounts_Click);
             // 
-            // btnTransactions
-            // 
-            this.btnTransactions.Location = new System.Drawing.Point(31, 228);
-            this.btnTransactions.Name = "btnTransactions";
-            this.btnTransactions.Size = new System.Drawing.Size(88, 57);
-            this.btnTransactions.TabIndex = 3;
-            this.btnTransactions.Text = "Transactions";
-            this.btnTransactions.UseVisualStyleBackColor = true;
-            this.btnTransactions.Click += new System.EventHandler(this.btnTransactions_Click);
-            // 
-            // Form1
+            // frmMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(149, 322);
-            this.Controls.Add(this.btnTransactions);
+            this.ClientSize = new System.Drawing.Size(149, 239);
             this.Controls.Add(this.btnAccounts);
             this.Controls.Add(this.btnProducts);
             this.Controls.Add(this.btnCustomers);
-            this.Name = "Form1";
+            this.Name = "frmMenu";
             this.Text = "Form1";
             this.ResumeLayout(false);
 
@@ -94,7 +82,6 @@
         private System.Windows.Forms.Button btnCustomers;
         private System.Windows.Forms.Button btnProducts;
         private System.Windows.Forms.Button btnAccounts;
-        private System.Windows.Forms.Button btnTransactions;
     }
 }
 

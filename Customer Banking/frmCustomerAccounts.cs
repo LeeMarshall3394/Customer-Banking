@@ -57,18 +57,18 @@ namespace Assignment_2
             }
         }
 
-        private void dtaResults_CellClick_1(object sender, DataGridViewCellEventArgs e)
-        {
-            //Make sure cell clicked isn't a header cell
-            if (e.RowIndex > -1)
-            {
-                dbConnection.custID = dtaResults[0, e.RowIndex].Value.ToString();
+        //private void dtaResults_CellClick_1(object sender, DataGridViewCellEventArgs e)
+        //{
+        //    //Make sure cell clicked isn't a header cell and that the cell isn't empty
+        //    if (e.RowIndex > -1 && dtaResults.CurrentCell.Value.ToString() != "3")
+        //    {
+        //        dbConnection.custID = dtaResults[0, e.RowIndex].Value.ToString();
 
-                //Open the results form
-                frmCustomerResults frmcustomerresults = new frmCustomerResults();
-                frmcustomerresults.ShowDialog();
-            }
-        }
+        //        //Open the results form
+        //        frmCustomerResults frmcustomerresults = new frmCustomerResults();
+        //        frmcustomerresults.ShowDialog();
+        //    }
+        //}
 
         private void frmCustomerAccounts_Load(object sender, EventArgs e)
         {
@@ -77,8 +77,8 @@ namespace Assignment_2
 
         private void dtaResults_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            //Make sure cell clicked isn't a header cell
-            if (e.RowIndex > -1)
+            //Make sure cell clicked isn't a header cell and that the cell isn't empty
+            if (e.RowIndex > -1 && dtaResults.CurrentCell.Value.ToString() != "")
             {
                 //Put the customer id into the dbconnection class
                 dbConnection.accID = dtaResults[0, e.RowIndex].Value.ToString();
@@ -88,6 +88,11 @@ namespace Assignment_2
                 frmcustomerAccountsEdit.ShowDialog();
                 fillData();
             }
+        }
+
+        private void dtaResults_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }        
     }
 }

@@ -19,26 +19,23 @@ namespace Assignment_2
 
         private void btnCustomers_Click(object sender, EventArgs e)
         {
+            //Opens the Customer menu form
             frmCustomerMenu frmCustomersMenu = new frmCustomerMenu();
             frmCustomersMenu.ShowDialog();
         }
 
         private void btnProducts_Click(object sender, EventArgs e)
         {
+            //Opens the Products menu
             frmProductsMenu frmProductsMenu = new frmProductsMenu();
             frmProductsMenu.ShowDialog();
         }
 
         private void btnAccounts_Click(object sender, EventArgs e)
         {
+            //Opens the accounts menu
             frmAccountsMenu frmAccountsMenu = new frmAccountsMenu();
             frmAccountsMenu.ShowDialog();
-        }
-
-        private void btnTransactions_Click(object sender, EventArgs e)
-        {
-            frmTransactionsMenu btnTransactionsMenu = new frmTransactionsMenu();
-            btnTransactionsMenu.ShowDialog();
         }
     }
 }
