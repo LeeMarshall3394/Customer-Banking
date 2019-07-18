@@ -1,0 +1,21 @@
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\bin\x64\Debug\Assignment 2.exe.config
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment 2.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment 2.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\bin\x64\Debug\Assignment 2.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\bin\x64\Debug\Assignment 2.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmAccountInterest.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmAccountsCustomer.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmAccountsMenu.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmCustomerAccounts.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmCustomerAccountsEdit.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmCustomerMenu.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmCustomerResults.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmCustomerSearch.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmMenu.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmCustomerNew.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmProductEdit.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmProductOpen.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.frmProductsMenu.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Customer Banking.csproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Customer Banking\Customer Banking\obj\x64\Debug\Customer Banking.csprojResolveAssemblyReference.cache

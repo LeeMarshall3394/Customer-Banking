@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9924BBBB-E270-4400-B094-2063C1172FAA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Assignment_2</RootNamespace>
+    <AssemblyName>Assignment 2</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dbConnection.cs" />
+    <Compile Include="frmAccountInterest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountInterest.Designer.cs">
+      <DependentUpon>frmAccountInterest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountsCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountsCustomer.Designer.cs">
+      <DependentUpon>frmAccountsCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerAccounts.Designer.cs">
+      <DependentUpon>frmCustomerAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerAccountsEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerAccountsEdit.Designer.cs">
+      <DependentUpon>frmCustomerAccountsEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerMenu.Designer.cs">
+      <DependentUpon>frmCustomerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerResults.Designer.cs">
+      <DependentUpon>frmCustomerResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerSearch.Designer.cs">
+      <DependentUpon>frmCustomerSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountsMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountsMenu.Designer.cs">
+      <DependentUpon>frmAccountsMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerNew.Designer.cs">
+      <DependentUpon>frmCustomerNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductEdit.Designer.cs">
+      <DependentUpon>frmProductEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductOpen.Designer.cs">
+      <DependentUpon>frmProductOpen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductsMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductsMenu.Designer.cs">
+      <DependentUpon>frmProductsMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTransactionsMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTransactionsMenu.Designer.cs">
+      <DependentUpon>frmTransactionsMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAccountInterest.resx">
+      <DependentUpon>frmAccountInterest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountsCustomer.resx">
+      <DependentUpon>frmAccountsCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountsMenu.resx">
+      <DependentUpon>frmAccountsMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerAccounts.resx">
+      <DependentUpon>frmCustomerAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerAccountsEdit.resx">
+      <DependentUpon>frmCustomerAccountsEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerMenu.resx">
+      <DependentUpon>frmCustomerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerResults.resx">
+      <DependentUpon>frmCustomerResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerSearch.resx">
+      <DependentUpon>frmCustomerSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerNew.resx">
+      <DependentUpon>frmCustomerNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductEdit.resx">
+      <DependentUpon>frmProductEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductOpen.resx">
+      <DependentUpon>frmProductOpen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductsMenu.resx">
+      <DependentUpon>frmProductsMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

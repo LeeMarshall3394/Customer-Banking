@@ -1,0 +1,80 @@
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.exe.config
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.exe
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.pdb
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.Properties.Resources.resources
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.csproj.GenerateResource.Cache
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.exe
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.pdb
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmMenu.resources
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerMenu.resources
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerNew.resources
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerSearch.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.exe.config
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.exe
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.pdb
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerMenu.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerResults.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerSearch.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmMenu.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerNew.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.Properties.Resources.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.csproj.GenerateResource.Cache
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.exe
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.pdb
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductsMenu.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductEdit.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerAccounts.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.exe.config
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.exe
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.pdb
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.exe
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.pdb
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerAccounts.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerMenu.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerResults.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerSearch.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmMenu.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerNew.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductEdit.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductsMenu.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.Properties.Resources.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.csproj.GenerateResource.Cache
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerAccounts.resources
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerResults.resources
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductEdit.resources
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductOpen.resources
+F:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductsMenu.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductOpen.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmAccountsMenu.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmAccountsCustomer.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerAccountsEdit.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmAccountInterest.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmAccountInterest.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmAccountsCustomer.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmAccountsMenu.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerAccountsEdit.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 2\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductOpen.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.exe.config
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\bin\x64\Debug\Assignment 2.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmAccountInterest.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmAccountsCustomer.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmAccountsMenu.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerAccounts.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerAccountsEdit.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerMenu.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerResults.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerSearch.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmMenu.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmCustomerNew.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductEdit.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductOpen.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.frmProductsMenu.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 2\Assignment 2\obj\x64\Debug\Assignment 2.csproj.GenerateResource.Cache
